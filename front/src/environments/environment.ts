@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  baseUrl: 'https://congenial-doodle-g4w75jjj4vw73w9w9-3000.app.github.dev',
+  viaCepUrl: 'https://viacep.com.br/ws'
 };
 
 /*
